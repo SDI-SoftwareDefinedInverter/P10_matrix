@@ -25,7 +25,6 @@ So in order to reduce the number of inputs we can use jumper wires between input
 PI | PO
 ---|---
 R2 | R1
-R2 | R1
 G1 | R2
 G2 | G1
 B1 | G2
